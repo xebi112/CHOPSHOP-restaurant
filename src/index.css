@@ -1,0 +1,14 @@
+/* Add/update this in your main index.css */
+html,
+body {
+  width: 100%;
+  max-width: 100vw;
+  overflow-x: hidden; /* Prevents edge-overflow scrolling */
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
